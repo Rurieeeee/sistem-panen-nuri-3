@@ -1,3 +1,4 @@
+
 def hitung_total_panen(jumlah, harga):
     return jumlah * harga
 
